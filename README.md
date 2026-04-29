@@ -1,4 +1,5 @@
-# Video Game Sales Analysis (Link to full analysis: https://medium.com/@tylernuofc/analyzing-the-video-game-industry-through-video-game-sales-data-8be975df8a81
+# Video Game Sales Analysis 
+# Link to full analysis: https://medium.com/@tylernuofc/analyzing-the-video-game-industry-through-video-game-sales-data-8be975df8a81
 ## Exploring Global Gaming Trends Through Data Visualization and Machine Learning
 ### Overview
 
