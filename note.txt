@@ -1,0 +1,27 @@
+Project title:
+Video Game Sales Analysis: Market Trends, Platform Dominance, and Predictive Insights
+
+or
+
+Analyzing global Video Game Sales using SQL, Python, and Machine Learning
+
+Table of Contents:
+Summary
+Dataset used
+Tools used
+Findings
+Buisnes/product decisions the analysis could support
+
+Project Objective:
+
+Dataset Overview:
+
+Data Cleaning and Prep:
+
+SQL Data Prep
+
+Exploratory Data Analysis:
+
+Limitations:
+
+Next Steps:
