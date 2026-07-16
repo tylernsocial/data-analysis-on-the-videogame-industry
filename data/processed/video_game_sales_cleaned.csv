@@ -1643,7 +1643,6 @@ Dragon Quest IV: Michibikareshi Monotachi,PS,2001,Role-Playing,Enix Corporation,
 Star Wars Episode 1: Jedi Power Battles,PS,1999,Action,LucasArts,0.66,0.48,0.01,0.06,1.21,1.2100000000000002,1990s,high,1,0.5454545454545455,0.39669421487603307,0.008264462809917356,0.049586776859504134,North America
 Dino Crisis 2,PS,2000,Action,Virgin Interactive,0.34,0.49,0.28,0.1,1.21,1.2100000000000002,2000s,high,1,0.2809917355371901,0.4049586776859504,0.23140495867768598,0.08264462809917356,Europe
 Need for Speed Underground,GC,2003,Racing,Electronic Arts,0.69,0.48,0.01,0.03,1.21,1.21,2000s,high,1,0.5702479338842975,0.39669421487603307,0.008264462809917356,0.024793388429752067,North America
-Shrek / Shrek 2 2-in-1 Gameboy Advance Video,GBA,2007,Misc,,0.87,0.32,0.0,0.02,1.21,1.21,2000s,high,1,0.71900826446281,0.2644628099173554,0.0,0.01652892561983471,North America
 Test Drive 4,PS,1997,Racing,Electronic Arts,0.67,0.46,0.0,0.08,1.21,1.2100000000000002,1990s,high,1,0.5537190082644629,0.38016528925619836,0.0,0.06611570247933884,North America
 FIFA Soccer 07,PSP,2006,Sports,Electronic Arts,0.24,0.65,0.0,0.32,1.21,1.21,2000s,high,1,0.19834710743801653,0.5371900826446281,0.0,0.2644628099173554,Europe
 World Soccer Winning Eleven 9 (JP & Others sales),PSP,2005,Sports,Konami Digital Entertainment,0.01,0.88,0.31,0.0,1.2,1.2,2000s,high,1,0.008333333333333333,0.7333333333333334,0.25833333333333336,0.0,Europe
@@ -2193,7 +2192,6 @@ NHL 2003,PS2,2002,Sports,Electronic Arts,0.46,0.36,0.0,0.12,0.93,0.9400000000000
 Operation Flashpoint: Dragon Rising,X360,2009,Shooter,Codemasters,0.36,0.45,0.02,0.1,0.93,0.93,2000s,medium,0,0.3870967741935484,0.48387096774193544,0.02150537634408602,0.10752688172043011,Europe
 Nickelodeon Fit,Wii,2010,Sports,Take-Two Interactive,0.78,0.09,0.0,0.06,0.93,0.9299999999999999,2010s,medium,0,0.8387096774193549,0.0967741935483871,0.0,0.06451612903225806,North America
 Buzz! Quiz World,PS3,2009,Misc,Sony Computer Entertainment,0.16,0.58,0.0,0.2,0.93,0.94,2000s,medium,0,0.17204301075268816,0.6236559139784945,0.0,0.21505376344086022,Europe
-Bentley's Hackpack,GBA,2005,Misc,,0.67,0.25,0.0,0.02,0.93,0.9400000000000001,2000s,medium,0,0.7204301075268817,0.26881720430107525,0.0,0.02150537634408602,North America
 Tony Hawk's Pro Skater 4,XB,2002,Sports,Activision,0.59,0.3,0.0,0.04,0.93,0.9299999999999999,2000s,medium,0,0.6344086021505375,0.3225806451612903,0.0,0.04301075268817204,North America
 Borderlands 2,PC,2012,Shooter,Take-Two Interactive,0.42,0.41,0.0,0.11,0.93,0.94,2010s,medium,0,0.4516129032258064,0.4408602150537634,0.0,0.11827956989247311,North America
 EA Sports Grand Slam Tennis,Wii,2009,Sports,Electronic Arts,0.29,0.52,0.02,0.11,0.93,0.9400000000000001,2000s,medium,0,0.31182795698924726,0.5591397849462365,0.02150537634408602,0.11827956989247311,Europe
@@ -3116,14 +3114,12 @@ LEGO Star Wars II: The Original Trilogy,X360,2006,Action,LucasArts,0.55,0.04,0.0
 Tom Clancy's Rainbow Six,N64,1999,Shooter,Red Storm Entertainment,0.48,0.15,0.0,0.01,0.64,0.64,1990s,medium,0,0.75,0.234375,0.0,0.015625,North America
 Castlevania,N64,1999,Platform,Konami Digital Entertainment,0.44,0.1,0.04,0.05,0.64,0.6300000000000001,1990s,medium,0,0.6875,0.15625,0.0625,0.078125,North America
 Rayman 2: The Great Escape,N64,1999,Platform,Ubisoft,0.4,0.22,0.0,0.02,0.64,0.64,1990s,medium,0,0.625,0.34375,0.0,0.03125,North America
-Nicktoons Collection: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.46,0.17,0.0,0.01,0.64,0.64,2000s,medium,0,0.71875,0.265625,0.0,0.015625,North America
 The Lord of the Rings: Conquest,X360,2009,Action,Electronic Arts,0.37,0.21,0.0,0.06,0.64,0.6399999999999999,2000s,medium,0,0.578125,0.328125,0.0,0.09375,North America
 TimeSplitters 2,XB,2002,Shooter,Eidos Interactive,0.29,0.33,0.0,0.01,0.64,0.63,2000s,medium,0,0.45312499999999994,0.515625,0.0,0.015625,Europe
 Onimusha: Dawn of Dreams,PS2,2006,Action,Capcom,0.15,0.12,0.34,0.04,0.64,0.6500000000000001,2000s,medium,0,0.234375,0.1875,0.53125,0.0625,Japan
 NieR,PS3,2010,Role-Playing,Square Enix,0.17,0.2,0.2,0.07,0.64,0.6400000000000001,2010s,medium,0,0.265625,0.3125,0.3125,0.10937500000000001,Europe
 The Princess and the Frog,DS,2009,Platform,Disney Interactive Studios,0.41,0.17,0.0,0.06,0.64,0.6399999999999999,2000s,medium,0,0.640625,0.265625,0.0,0.09375,North America
 Sega Rally Revo,PS3,2007,Racing,Sega,0.07,0.43,0.0,0.14,0.64,0.64,2000s,medium,0,0.10937500000000001,0.671875,0.0,0.21875000000000003,Europe
-SpongeBob SquarePants: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.46,0.17,0.0,0.01,0.64,0.64,2000s,medium,0,0.71875,0.265625,0.0,0.015625,North America
 Gravity Rush,PSV,2012,Action,Sony Computer Entertainment,0.26,0.2,0.09,0.1,0.64,0.65,2010s,medium,0,0.40625,0.3125,0.140625,0.15625,North America
 Konami Collector's Series: Arcade Advanced,GBA,2002,Misc,Konami Digital Entertainment,0.46,0.17,0.0,0.01,0.64,0.64,2000s,medium,0,0.71875,0.265625,0.0,0.015625,North America
 White Knight Chronicles II,PS3,2010,Role-Playing,Sony Computer Entertainment,0.23,0.09,0.27,0.05,0.64,0.6400000000000001,2010s,medium,0,0.359375,0.140625,0.421875,0.078125,Japan
@@ -3714,7 +3710,6 @@ Jampack Volume 11,PS2,2004,Misc,Sony Computer Entertainment,0.26,0.2,0.0,0.07,0.
 Dragon's Crown,PS3,2013,Role-Playing,Nippon Ichi Software,0.25,0.07,0.17,0.05,0.53,0.54,2010s,medium,0,0.4716981132075471,0.1320754716981132,0.32075471698113206,0.09433962264150944,North America
 Tactics Ogre: Let Us Cling Together,PSP,2010,Role-Playing,Square Enix,0.15,0.07,0.27,0.05,0.53,0.54,2010s,medium,0,0.2830188679245283,0.1320754716981132,0.5094339622641509,0.09433962264150944,Japan
 Legacy of Kain: Defiance,PS2,2003,Action,Eidos Interactive,0.26,0.2,0.0,0.07,0.53,0.53,2000s,medium,0,0.49056603773584906,0.37735849056603776,0.0,0.1320754716981132,North America
-SpongeBob SquarePants: Game Boy Advance Video Volume 2,GBA,2004,Misc,,0.38,0.14,0.0,0.01,0.53,0.53,2000s,medium,0,0.7169811320754716,0.2641509433962264,0.0,0.018867924528301886,North America
 NCAA March Madness 2005,PS2,2004,Sports,Electronic Arts,0.44,0.02,0.0,0.07,0.53,0.53,2000s,medium,0,0.830188679245283,0.03773584905660377,0.0,0.1320754716981132,North America
 007 Racing,PS,2000,Racing,Electronic Arts,0.3,0.2,0.0,0.03,0.53,0.53,2000s,medium,0,0.5660377358490566,0.37735849056603776,0.0,0.056603773584905655,North America
 Conflict: Vietnam,PS2,2004,Shooter,SCi,0.26,0.2,0.0,0.07,0.53,0.53,2000s,medium,0,0.49056603773584906,0.37735849056603776,0.0,0.1320754716981132,North America
@@ -4463,7 +4458,6 @@ Wonder Project J: Kikai no Shonen Pino,SNES,1994,Simulation,Enix Corporation,0.0
 2010 FIFA World Cup South Africa,Wii,2010,Sports,Electronic Arts,0.23,0.15,0.01,0.04,0.43,0.43,2010s,low,0,0.5348837209302326,0.3488372093023256,0.023255813953488372,0.09302325581395349,North America
 Atelier Totori: The Adventurer of Arland,PS3,2010,Role-Playing,Nippon Ichi Software,0.12,0.07,0.21,0.03,0.43,0.43000000000000005,2010s,low,0,0.27906976744186046,0.16279069767441862,0.4883720930232558,0.06976744186046512,Japan
 Spec Ops: The Line,X360,2012,Shooter,Take-Two Interactive,0.21,0.19,0.0,0.04,0.43,0.44,2010s,low,0,0.4883720930232558,0.4418604651162791,0.0,0.09302325581395349,North America
-The Fairly Odd Parents: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.31,0.11,0.0,0.01,0.43,0.43,2000s,low,0,0.7209302325581396,0.2558139534883721,0.0,0.023255813953488372,North America
 Ghostbusters: The Video Game,PS2,2009,Action,Atari,0.15,0.04,0.0,0.24,0.43,0.43,2000s,low,0,0.3488372093023256,0.09302325581395349,0.0,0.5581395348837209,Other
 Hunter: The Reckoning  Wayward,PS2,2003,Action,Interplay,0.21,0.16,0.0,0.06,0.43,0.43,2000s,low,0,0.4883720930232558,0.37209302325581395,0.0,0.13953488372093023,North America
 How to Train Your Dragon,Wii,2010,Action,Activision,0.24,0.15,0.0,0.04,0.43,0.43,2010s,low,0,0.5581395348837209,0.3488372093023256,0.0,0.09302325581395349,North America
@@ -4571,7 +4565,6 @@ Dance Dance Revolution Ultramix 2,XB,2004,Simulation,Konami Digital Entertainmen
 Mega Man Anniversary Collection,GC,2004,Platform,Capcom,0.32,0.08,0.0,0.01,0.42,0.41000000000000003,2000s,low,0,0.761904761904762,0.1904761904761905,0.0,0.02380952380952381,North America
 Blazing Angels: Squadrons of WWII,X360,2006,Simulation,Ubisoft,0.36,0.03,0.0,0.03,0.42,0.42000000000000004,2000s,low,0,0.8571428571428571,0.07142857142857142,0.0,0.07142857142857142,North America
 Super Famista 4,SNES,1995,Sports,Namco Bandai Games,0.0,0.0,0.42,0.0,0.42,0.42,1990s,low,0,0.0,0.0,1.0,0.0,Japan
-The Fairly Odd Parents: Game Boy Advance Video Volume 2,GBA,2004,Misc,,0.3,0.11,0.0,0.01,0.42,0.42,2000s,low,0,0.7142857142857143,0.2619047619047619,0.0,0.02380952380952381,North America
 Cabela's Legendary Adventures,PS2,2008,Sports,Activision,0.21,0.16,0.0,0.05,0.42,0.42,2000s,low,0,0.5,0.380952380952381,0.0,0.11904761904761905,North America
 Taiko no Tatsujin DS: Dororon! Youkai Daikessen!!,DS,2010,Misc,Namco Bandai Games,0.0,0.0,0.42,0.0,0.42,0.42,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Harry Potter and the Goblet of Fire,GC,2005,Action,Electronic Arts,0.32,0.08,0.0,0.01,0.42,0.41000000000000003,2000s,low,0,0.761904761904762,0.1904761904761905,0.0,0.02380952380952381,North America
@@ -5566,7 +5559,6 @@ Gold's Gym: Cardio Workout (Others sales),Wii,2008,Sports,Ubisoft,0.0,0.3,0.0,0.
 Seaman: Kindan no Pet - Gaze Hakushi no Jikken Shima,PS2,2001,Simulation,ASCII Entertainment,0.0,0.0,0.32,0.0,0.32,0.32,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 Street Fighter Alpha 2,SAT,1995,Fighting,Virgin Interactive,0.0,0.0,0.32,0.0,0.32,0.32,1990s,low,0,0.0,0.0,1.0,0.0,Japan
 No.1 Muscle Ranking - Kinniku Banzuke Vol. 1: Oregasaikyouno Otokoda!,PS,1999,Sports,Konami Digital Entertainment,0.0,0.0,0.3,0.02,0.32,0.32,1990s,low,0,0.0,0.0,0.9375,0.0625,Japan
-Cartoon Network Collection: Game Boy Advance Video Platinum Edition,GBA,2005,Misc,,0.23,0.08,0.0,0.01,0.32,0.32,2000s,low,0,0.71875,0.25,0.0,0.03125,North America
 Ultimate Fighting Championship: Throwdown,PS2,2002,Fighting,Ubisoft,0.16,0.12,0.0,0.04,0.32,0.32,2000s,low,0,0.5,0.375,0.0,0.125,North America
 Marvel Nemesis: Rise of the Imperfects,PSP,2005,Fighting,Electronic Arts,0.29,0.0,0.0,0.03,0.32,0.31999999999999995,2000s,low,0,0.9062499999999999,0.0,0.0,0.09375,North America
 SpongeBob SquarePants: Double Pack,GBA,2005,Platform,THQ,0.23,0.08,0.0,0.01,0.32,0.32,2000s,low,0,0.71875,0.25,0.0,0.03125,North America
@@ -6335,7 +6327,6 @@ Don King Boxing,Wii,2009,Sports,Take-Two Interactive,0.14,0.1,0.0,0.03,0.27,0.27
 Atelier Ayesha: The Alchemist of Dusk,PS3,2012,Role-Playing,Tecmo Koei,0.06,0.04,0.14,0.02,0.27,0.26,2010s,low,0,0.2222222222222222,0.14814814814814814,0.5185185185185185,0.07407407407407407,Japan
 Angry Birds Trilogy,X360,2012,Action,Activision,0.18,0.06,0.0,0.02,0.27,0.26,2010s,low,0,0.6666666666666666,0.2222222222222222,0.0,0.07407407407407407,North America
 Dragon Ball Z: Tenkaichi Tag Team,PSP,2010,Fighting,Namco Bandai Games,0.11,0.04,0.09,0.03,0.27,0.27,2010s,low,0,0.4074074074074074,0.14814814814814814,0.3333333333333333,0.1111111111111111,North America
-Sonic X: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.19,0.07,0.0,0.0,0.27,0.26,2000s,low,0,0.7037037037037037,0.25925925925925924,0.0,0.0,North America
 ESPN NBA Basketball,XB,2003,Sports,Sega,0.2,0.06,0.0,0.01,0.27,0.27,2000s,low,0,0.7407407407407407,0.2222222222222222,0.0,0.037037037037037035,North America
 Gallop Racer 2: One and Only Road to Victory,PS,1997,Sports,Tecmo Koei,0.0,0.0,0.25,0.02,0.27,0.27,1990s,low,0,0.0,0.0,0.9259259259259258,0.07407407407407407,Japan
 NBA 07,PS3,2006,Sports,Sony Computer Entertainment,0.24,0.0,0.01,0.02,0.26,0.27,2000s,low,0,0.923076923076923,0.0,0.038461538461538464,0.07692307692307693,North America
@@ -6459,7 +6450,6 @@ A.C.E.: Another Century's Episode,PS2,2005,Simulation,Banpresto,0.0,0.0,0.26,0.0
 Frogger's Journey: The Forgotten Relic,GBA,2003,Action,Konami Digital Entertainment,0.18,0.07,0.0,0.0,0.26,0.25,2000s,low,0,0.6923076923076923,0.2692307692307693,0.0,0.0,North America
 X-Men vs. Street Fighter,SAT,1997,Fighting,Capcom,0.0,0.0,0.26,0.0,0.26,0.26,1990s,low,0,0.0,0.0,1.0,0.0,Japan
 Army of Two: The Devil's Cartel,X360,2013,Shooter,Electronic Arts,0.16,0.07,0.0,0.02,0.26,0.25,2010s,low,0,0.6153846153846154,0.2692307692307693,0.0,0.07692307692307693,North America
-Dora the Explorer: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.18,0.07,0.0,0.0,0.26,0.25,2000s,low,0,0.6923076923076923,0.2692307692307693,0.0,0.0,North America
 Oddworld: Stranger's Wrath,XB,2005,Adventure,Electronic Arts,0.19,0.06,0.0,0.01,0.26,0.26,2000s,low,0,0.7307692307692307,0.23076923076923075,0.0,0.038461538461538464,North America
 Sega Rally Revo,PSP,2007,Racing,Sega,0.03,0.15,0.0,0.08,0.26,0.26,2000s,low,0,0.11538461538461538,0.5769230769230769,0.0,0.3076923076923077,Europe
 King of Fighters: Maximum Impact,PS2,2004,Fighting,Ignition Entertainment,0.13,0.1,0.0,0.03,0.26,0.26,2000s,low,0,0.5,0.38461538461538464,0.0,0.11538461538461538,North America
@@ -6544,7 +6534,6 @@ Scrabble,PS,1999,Misc,Ubisoft,0.14,0.1,0.0,0.02,0.25,0.26,1990s,low,0,0.56,0.4,0
 Tony Hawk's Proving Ground,Wii,2007,Sports,Activision,0.22,0.01,0.0,0.02,0.25,0.25,2000s,low,0,0.88,0.04,0.0,0.08,North America
 Amped 2,XB,2003,Sports,Microsoft Game Studios,0.2,0.04,0.0,0.01,0.25,0.25,2000s,low,0,0.8,0.16,0.0,0.04,North America
 Blaster Master: Blasting Again,PS,2000,Shooter,Sunsoft,0.14,0.1,0.0,0.02,0.25,0.26,2000s,low,0,0.56,0.4,0.0,0.08,North America
-Cartoon Network Collection: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.18,0.07,0.0,0.0,0.25,0.25,2000s,low,0,0.72,0.28,0.0,0.0,North America
 Cars,X360,2006,Racing,THQ,0.22,0.02,0.0,0.02,0.25,0.26,2000s,low,0,0.88,0.08,0.0,0.08,North America
 Family Guy: Back to the Multiverse,X360,2012,Action,Activision,0.14,0.09,0.0,0.02,0.25,0.25,2010s,low,0,0.56,0.36,0.0,0.08,North America
 Kung Fu Panda 2,X360,2011,Action,THQ,0.16,0.07,0.0,0.02,0.25,0.25,2010s,low,0,0.64,0.28,0.0,0.08,North America
@@ -6742,7 +6731,6 @@ PDC World Championship Darts 2008,Wii,2008,Sports,Oxygen Interactive,0.02,0.21,0
 Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE,PS2,2006,Misc,Sega,0.0,0.0,0.24,0.0,0.24,0.24,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 Azurik: Rise of Perathia,XB,2001,Action,Microsoft Game Studios,0.18,0.05,0.0,0.01,0.24,0.24,2000s,low,0,0.75,0.20833333333333334,0.0,0.04166666666666667,North America
 Luminous Arc,DS,2007,Role-Playing,Rising Star Games,0.16,0.0,0.06,0.01,0.24,0.23,2000s,low,0,0.6666666666666667,0.0,0.25,0.04166666666666667,North America
-All Grown Up!: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.17,0.06,0.0,0.0,0.24,0.23,2000s,low,0,0.7083333333333334,0.25,0.0,0.0,North America
 The Lord of the Rings: Aragorn's Quest,Wii,2010,Action,Warner Bros. Interactive Entertainment,0.17,0.05,0.0,0.02,0.24,0.24000000000000002,2010s,low,0,0.7083333333333334,0.20833333333333334,0.0,0.08333333333333334,North America
 Dragon Ball Z: Sagas,XB,2005,Fighting,Atari,0.18,0.05,0.0,0.01,0.24,0.24,2000s,low,0,0.75,0.20833333333333334,0.0,0.04166666666666667,North America
 Paws & Claws: Pet Resort,DS,2008,Simulation,THQ,0.22,0.0,0.0,0.02,0.24,0.24,2000s,low,0,0.9166666666666667,0.0,0.0,0.08333333333333334,North America
@@ -7094,7 +7082,6 @@ KORG DS-10 Synthesizer,DS,2008,Misc,AQ Interactive,0.2,0.01,0.0,0.02,0.22,0.23,2
 Tenchu: Shadow Assassins,Wii,2008,Action,Ubisoft,0.16,0.01,0.03,0.02,0.22,0.22,2000s,low,0,0.7272727272727273,0.045454545454545456,0.13636363636363635,0.09090909090909091,North America
 Barbie Super Sports,PS,1999,Sports,Mattel Interactive,0.12,0.08,0.0,0.01,0.22,0.21000000000000002,1990s,low,0,0.5454545454545454,0.36363636363636365,0.0,0.045454545454545456,North America
 CSI: Fatal Conspiracy,Wii,2010,Adventure,Ubisoft,0.12,0.08,0.0,0.02,0.22,0.22,2010s,low,0,0.5454545454545454,0.36363636363636365,0.0,0.09090909090909091,North America
-Nicktoons Collection: Game Boy Advance Video Volume 2,GBA,2004,Misc,,0.16,0.06,0.0,0.0,0.22,0.22,2000s,low,0,0.7272727272727273,0.2727272727272727,0.0,0.0,North America
 Jackass the Game,PSP,2007,Action,Empire Interactive,0.09,0.08,0.0,0.05,0.22,0.21999999999999997,2000s,low,0,0.40909090909090906,0.36363636363636365,0.0,0.2272727272727273,North America
 The Legend of Heroes: Trails of Cold Steel,PS3,2013,Role-Playing,Nippon Ichi Software,0.05,0.04,0.12,0.02,0.22,0.22999999999999998,2010s,low,0,0.2272727272727273,0.18181818181818182,0.5454545454545454,0.09090909090909091,Japan
 Tom Clancy's Rainbow Six: Siege,PC,2015,Shooter,Ubisoft,0.12,0.08,0.0,0.02,0.22,0.22,2010s,low,0,0.5454545454545454,0.36363636363636365,0.0,0.09090909090909091,North America
@@ -7349,7 +7336,6 @@ Tiger Woods PGA Tour,PSP,2005,Sports,Electronic Arts,0.19,0.0,0.0,0.02,0.21,0.21
 Yarudora Series Vol. 2: Kisetsu wo Dakishimete,PS,1998,Adventure,Sony Computer Entertainment,0.0,0.0,0.19,0.01,0.21,0.2,1990s,low,0,0.0,0.0,0.9047619047619048,0.04761904761904762,Japan
 NHL 2K3,PS2,2002,Sports,Sega,0.1,0.08,0.0,0.03,0.21,0.21,2000s,low,0,0.4761904761904762,0.380952380952381,0.0,0.14285714285714285,North America
 Heisei Kyouiku linkai DS,DS,2006,Misc,Namco Bandai Games,0.0,0.0,0.21,0.0,0.21,0.21,2000s,low,0,0.0,0.0,1.0,0.0,Japan
-SpongeBob SquarePants: Game Boy Advance Video Volume 3,GBA,2004,Misc,,0.15,0.05,0.0,0.0,0.21,0.2,2000s,low,0,0.7142857142857143,0.2380952380952381,0.0,0.0,North America
 Pro Yaky? Spirits 2010,PS3,2010,Sports,Konami Digital Entertainment,0.0,0.0,0.21,0.0,0.21,0.21,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 The Naked Brothers Band: The Video Game,Wii,2008,Misc,THQ,0.19,0.0,0.0,0.01,0.21,0.2,2000s,low,0,0.9047619047619048,0.0,0.0,0.04761904761904762,North America
 Final Fight One,GBA,2001,Fighting,Ubisoft,0.09,0.03,0.08,0.0,0.21,0.2,2000s,low,0,0.42857142857142855,0.14285714285714285,0.380952380952381,0.0,North America
@@ -7827,7 +7813,6 @@ Call of Duty: World at War,PC,2008,Shooter,Activision,0.02,0.13,0.0,0.03,0.19,0.
 Pro Yaky? Spirits 2012,PS3,2012,Sports,Konami Digital Entertainment,0.0,0.0,0.19,0.0,0.19,0.19,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Kuma-Tomo,3DS,2013,Misc,Namco Bandai Games,0.0,0.0,0.19,0.0,0.19,0.19,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Super Real Mahjong P V,SAT,1995,Misc,Seta Corporation,0.0,0.0,0.19,0.0,0.19,0.19,1990s,low,0,0.0,0.0,1.0,0.0,Japan
-Thomas the Tank Engine & Friends,GBA,2004,Adventure,,0.13,0.05,0.0,0.0,0.19,0.18,2000s,low,0,0.6842105263157895,0.2631578947368421,0.0,0.0,North America
 Grand Slam Tennis 2,X360,2012,Sports,Electronic Arts,0.1,0.07,0.0,0.02,0.19,0.19,2010s,low,0,0.5263157894736842,0.368421052631579,0.0,0.10526315789473684,North America
 Penguin no Mondai X: Tenkuu no 7 Senshi,DS,2009,Action,Konami Digital Entertainment,0.0,0.0,0.19,0.0,0.19,0.19,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 The Scorpion King: Sword of Osiris,GBA,2002,Action,Vivendi Games,0.13,0.05,0.0,0.0,0.19,0.18,2000s,low,0,0.6842105263157895,0.2631578947368421,0.0,0.0,North America
@@ -8197,7 +8182,6 @@ Transformers: Prime,3DS,2012,Action,Activision,0.13,0.03,0.0,0.01,0.17,0.17,2010
 Batman Begins,GBA,2005,Action,Electronic Arts,0.12,0.05,0.0,0.0,0.17,0.16999999999999998,2000s,low,0,0.7058823529411764,0.29411764705882354,0.0,0.0,North America
 Transformer: Rise of the Dark Spark,X360,2014,Action,Activision,0.09,0.07,0.0,0.02,0.17,0.18,2010s,low,0,0.5294117647058822,0.411764705882353,0.0,0.11764705882352941,North America
 Glover,PS,1999,Platform,Atari,0.09,0.06,0.0,0.01,0.17,0.16,1990s,low,0,0.5294117647058822,0.3529411764705882,0.0,0.058823529411764705,North America
-Dragon Ball GT: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.12,0.05,0.0,0.0,0.17,0.16999999999999998,2000s,low,0,0.7058823529411764,0.29411764705882354,0.0,0.0,North America
 Luxor 3,Wii,2008,Puzzle,Mumbo Jumbo,0.16,0.0,0.0,0.01,0.17,0.17,2000s,low,0,0.9411764705882353,0.0,0.0,0.058823529411764705,North America
 Bratz Kidz,Wii,2008,Misc,Game Factory,0.16,0.0,0.0,0.01,0.17,0.17,2000s,low,0,0.9411764705882353,0.0,0.0,0.058823529411764705,North America
 Fairytale Fights,X360,2009,Action,Playlogic Game Factory,0.14,0.02,0.0,0.01,0.17,0.17,2000s,low,0,0.823529411764706,0.11764705882352941,0.0,0.058823529411764705,North America
@@ -8207,7 +8191,6 @@ World Driver Championship,N64,1999,Racing,Midway Games,0.14,0.03,0.0,0.0,0.17,0.
 Bomberman 64: The Second Attack!,N64,1999,Adventure,Hudson Soft,0.05,0.01,0.11,0.0,0.17,0.17,1990s,low,0,0.29411764705882354,0.058823529411764705,0.6470588235294117,0.0,Japan
 Turok 3: Shadow of Oblivion,N64,2000,Shooter,Acclaim Entertainment,0.12,0.05,0.0,0.0,0.17,0.16999999999999998,2000s,low,0,0.7058823529411764,0.29411764705882354,0.0,0.0,North America
 Spawn: Armageddon,XB,2003,Action,Electronic Arts,0.13,0.04,0.0,0.01,0.17,0.18000000000000002,2000s,low,0,0.7647058823529411,0.23529411764705882,0.0,0.058823529411764705,North America
-Codename: Kids Next Door: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.12,0.05,0.0,0.0,0.17,0.16999999999999998,2000s,low,0,0.7058823529411764,0.29411764705882354,0.0,0.0,North America
 Zoo Hospital,Wii,2008,Simulation,Majesco Entertainment,0.14,0.01,0.0,0.01,0.17,0.16000000000000003,2000s,low,0,0.823529411764706,0.058823529411764705,0.0,0.058823529411764705,North America
 Pokémon Beach Blank-out Blastoise / Go West Young Meowth Game Boy Advance Video,GBA,2004,Misc,Nintendo,0.12,0.05,0.0,0.0,0.17,0.16999999999999998,2000s,low,0,0.7058823529411764,0.29411764705882354,0.0,0.0,North America
 Time and Eternity,PS3,2012,Role-Playing,Nippon Ichi Software,0.06,0.03,0.06,0.02,0.17,0.16999999999999998,2010s,low,0,0.3529411764705882,0.1764705882352941,0.3529411764705882,0.11764705882352941,North America
@@ -8234,7 +8217,6 @@ Catwoman,PS2,2004,Action,Electronic Arts,0.08,0.06,0.0,0.02,0.17,0.16,2000s,low,
 Monsters vs. Aliens,X360,2009,Action,Activision,0.12,0.03,0.0,0.01,0.17,0.16,2000s,low,0,0.7058823529411764,0.1764705882352941,0.0,0.058823529411764705,North America
 Country Dance: All Stars,X360,2012,Action,GameMill Entertainment,0.16,0.0,0.0,0.01,0.17,0.17,2010s,low,0,0.9411764705882353,0.0,0.0,0.058823529411764705,North America
 Garfield: Lasagna World Tour,PS2,2007,Action,Blast! Entertainment Ltd,0.08,0.06,0.0,0.02,0.17,0.16,2000s,low,0,0.47058823529411764,0.3529411764705882,0.0,0.11764705882352941,North America
-Teenage Mutant Ninja Turtles: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.12,0.04,0.0,0.0,0.17,0.16,2000s,low,0,0.7058823529411764,0.23529411764705882,0.0,0.0,North America
 Disney's Planes,Wii,2013,Simulation,Disney Interactive Studios,0.08,0.07,0.0,0.02,0.17,0.17,2010s,low,0,0.47058823529411764,0.411764705882353,0.0,0.11764705882352941,North America
 Bomberman Land,Wii,2007,Misc,Rising Star Games,0.11,0.02,0.03,0.01,0.17,0.17,2000s,low,0,0.6470588235294117,0.11764705882352941,0.1764705882352941,0.058823529411764705,North America
 Bomberman B-Daman,SNES,1996,Shooter,Hudson Soft,0.0,0.0,0.17,0.0,0.17,0.17,1990s,low,0,0.0,0.0,1.0,0.0,Japan
@@ -8367,7 +8349,6 @@ Dynasty Warriors 8: Xtreme Legends,PS3,2013,Action,Tecmo Koei,0.02,0.03,0.11,0.0
 Curious George,GBA,2006,Action,Namco Bandai Games,0.12,0.04,0.0,0.0,0.16,0.16,2000s,low,0,0.75,0.25,0.0,0.0,North America
 Monster Jam,Wii,2007,Racing,Activision,0.15,0.0,0.0,0.01,0.16,0.16,2000s,low,0,0.9375,0.0,0.0,0.0625,North America
 Medieval Games,Wii,2009,Action,Vir2L Studios,0.14,0.01,0.0,0.01,0.16,0.16000000000000003,2000s,low,0,0.8750000000000001,0.0625,0.0,0.0625,North America
-Stronghold 3,PC,2011,Strategy,,0.06,0.1,0.0,0.0,0.16,0.16,2010s,low,0,0.375,0.625,0.0,0.0,Europe
 The Amazing Spider-Man (Console Version),Wii,2012,Action,Activision,0.11,0.04,0.0,0.01,0.16,0.16,2010s,low,0,0.6875,0.25,0.0,0.0625,North America
 Kid Adventures: Sky Captain,Wii,2010,Action,Unknown,0.11,0.04,0.0,0.01,0.16,0.16,2010s,low,0,0.6875,0.25,0.0,0.0625,North America
 Lethal Skies II,PS2,2003,Simulation,Sammy Corporation,0.08,0.06,0.0,0.02,0.16,0.16,2000s,low,0,0.5,0.375,0.0,0.125,North America
@@ -8630,7 +8611,6 @@ Farm Frenzy: Animal Country,DS,2009,Simulation,City Interactive,0.13,0.01,0.0,0.
 Kingdom Under Fire: Heroes,XB,2005,Strategy,Deep Silver,0.11,0.03,0.0,0.01,0.15,0.15000000000000002,2000s,low,0,0.7333333333333334,0.2,0.0,0.06666666666666667,North America
 Wolfenstein: The Old Blood,XOne,2015,Action,Bethesda Softworks,0.07,0.07,0.0,0.01,0.15,0.15000000000000002,2010s,low,0,0.46666666666666673,0.46666666666666673,0.0,0.06666666666666667,North America
 The Terminator: Dawn of Fate,XB,2002,Action,Atari,0.11,0.03,0.0,0.01,0.15,0.15000000000000002,2000s,low,0,0.7333333333333334,0.2,0.0,0.06666666666666667,North America
-Cartoon Network Collection: Game Boy Advance Video Special Edition,GBA,2005,Misc,,0.11,0.04,0.0,0.0,0.15,0.15,2000s,low,0,0.7333333333333334,0.26666666666666666,0.0,0.0,North America
 Naruto Shippuden: Legends: Akatsuki Rising,PSP,2009,Fighting,Namco Bandai Games,0.14,0.0,0.0,0.01,0.15,0.15000000000000002,2000s,low,0,0.9333333333333335,0.0,0.0,0.06666666666666667,North America
 Scooby-Doo! Unmasked,GC,2005,Platform,THQ,0.12,0.03,0.0,0.0,0.15,0.15,2000s,low,0,0.8,0.2,0.0,0.0,North America
 Streak: Hoverboard Racing,PS,1998,Racing,GT Interactive,0.09,0.06,0.0,0.01,0.15,0.16,1990s,low,0,0.6,0.4,0.0,0.06666666666666667,North America
@@ -8708,7 +8688,6 @@ Terraria,PC,2011,Action,Unknown,0.0,0.13,0.0,0.02,0.15,0.15,2010s,low,0,0.0,0.86
 Castlevania: Lords of Shadow - Mirror of Fate,3DS,2013,Action,Konami Digital Entertainment,0.04,0.07,0.03,0.01,0.15,0.15000000000000002,2010s,low,0,0.26666666666666666,0.46666666666666673,0.2,0.06666666666666667,Europe
 3rd Super Robot Wars Z: Tengoku-Hen,PS3,2015,Action,Namco Bandai Games,0.0,0.0,0.15,0.0,0.15,0.15,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Fantasia: Music Evolved,XOne,2014,Misc,Disney Interactive Studios,0.11,0.03,0.0,0.01,0.15,0.15000000000000002,2010s,low,0,0.7333333333333334,0.2,0.0,0.06666666666666667,North America
-Pokémon: Johto Photo Finish: Game Boy Advance Video,GBA,2004,Misc,,0.11,0.04,0.0,0.0,0.15,0.15,2000s,low,0,0.7333333333333334,0.26666666666666666,0.0,0.0,North America
 F1 2001,PS2,2001,Racing,Electronic Arts,0.07,0.06,0.0,0.02,0.15,0.15,2000s,low,0,0.46666666666666673,0.4,0.0,0.13333333333333333,North America
 The Legend of Heroes: Trails of Cold Steel II,PSV,2014,Role-Playing,Nippon Ichi Software,0.02,0.0,0.13,0.01,0.15,0.16,2010s,low,0,0.13333333333333333,0.0,0.8666666666666667,0.06666666666666667,Japan
 Top Gun: Combat Zones,GC,2002,Simulation,Titus,0.12,0.03,0.0,0.0,0.15,0.15,2000s,low,0,0.8,0.2,0.0,0.0,North America
@@ -8756,7 +8735,6 @@ DreamWorks Super Star Kartz,Wii,2011,Racing,Activision,0.1,0.04,0.0,0.01,0.15,0.
 Pro Baseball Spirits 2015,PS3,2015,Action,Konami Digital Entertainment,0.0,0.0,0.15,0.0,0.15,0.15,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 187: Ride or Die,PS2,2005,Racing,Ubisoft,0.07,0.06,0.0,0.02,0.15,0.15,2000s,low,0,0.46666666666666673,0.4,0.0,0.13333333333333333,North America
 Curious George,GC,2006,Action,Namco Bandai Games,0.11,0.03,0.0,0.0,0.15,0.14,2000s,low,0,0.7333333333333334,0.2,0.0,0.0,North America
-Strawberry Shortcake: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.11,0.04,0.0,0.0,0.15,0.15,2000s,low,0,0.7333333333333334,0.26666666666666666,0.0,0.0,North America
 Armored Core: For Answer,X360,2008,Simulation,Ubisoft,0.06,0.01,0.07,0.01,0.15,0.15000000000000002,2000s,low,0,0.4,0.06666666666666667,0.46666666666666673,0.06666666666666667,Japan
 Geist,GC,2005,Adventure,Nintendo,0.11,0.03,0.0,0.0,0.15,0.14,2000s,low,0,0.7333333333333334,0.2,0.0,0.0,North America
 Cardinal Syn,PS,1998,Fighting,Sony Computer Entertainment,0.08,0.06,0.0,0.01,0.15,0.15000000000000002,1990s,low,0,0.5333333333333333,0.4,0.0,0.06666666666666667,North America
@@ -9368,7 +9346,6 @@ Whiplash,PS2,2003,Racing,Eidos Interactive,0.06,0.05,0.0,0.02,0.13,0.13,2000s,lo
 BlazBlue: Continuum Shift II,PSP,2011,Fighting,PQube,0.03,0.02,0.07,0.01,0.13,0.13,2010s,low,0,0.23076923076923075,0.15384615384615385,0.5384615384615385,0.07692307692307693,Japan
 Backyard Sports Football: Rookie Rush,Wii,2010,Sports,Atari,0.12,0.0,0.0,0.01,0.13,0.13,2010s,low,0,0.923076923076923,0.0,0.0,0.07692307692307693,North America
 Warcraft III: Reign of Chaos,PC,2002,Strategy,Vivendi Games,0.03,0.08,0.0,0.02,0.13,0.13,2000s,low,0,0.23076923076923075,0.6153846153846154,0.0,0.15384615384615385,Europe
-Farming Simulator 2011,PC,2010,Simulation,,0.0,0.13,0.0,0.0,0.13,0.13,2010s,low,0,0.0,1.0,0.0,0.0,Europe
 Margot's Word Brain,Wii,2008,Puzzle,Zoo Digital Publishing,0.12,0.0,0.0,0.01,0.13,0.13,2000s,low,0,0.923076923076923,0.0,0.0,0.07692307692307693,North America
 Spider-Man: Battle for New York,DS,2006,Platform,Activision,0.12,0.0,0.0,0.01,0.13,0.13,2000s,low,0,0.923076923076923,0.0,0.0,0.07692307692307693,North America
 Imagine: Fashion Designer,3DS,2011,Simulation,Ubisoft,0.1,0.02,0.0,0.01,0.13,0.13,2010s,low,0,0.7692307692307693,0.15384615384615385,0.0,0.07692307692307693,North America
@@ -10218,7 +10195,6 @@ Carnage Heart,PS,1995,Strategy,Sony Computer Entertainment,0.01,0.01,0.09,0.01,0
 "Grand Theft Auto: Mission Pack #1, London 1969",PS,1998,Adventure,Take-Two Interactive,0.06,0.04,0.0,0.01,0.11,0.11,1990s,low,0,0.5454545454545454,0.36363636363636365,0.0,0.09090909090909091,North America
 Kamen Rider: Climax Heroes,PS2,2009,Fighting,Namco Bandai Games,0.0,0.0,0.11,0.0,0.11,0.11,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 Robotics;Notes,PS3,2012,Adventure,5pb,0.0,0.0,0.11,0.0,0.11,0.11,2010s,low,0,0.0,0.0,1.0,0.0,Japan
-Disney Channel Collection Vol. 1,GBA,2004,Misc,,0.08,0.03,0.0,0.0,0.11,0.11,2000s,low,0,0.7272727272727273,0.2727272727272727,0.0,0.0,North America
 Total Immersion Racing,PS2,2002,Racing,Empire Interactive,0.05,0.04,0.0,0.01,0.11,0.09999999999999999,2000s,low,0,0.4545454545454546,0.36363636363636365,0.0,0.09090909090909091,North America
 Virtual Hydlide,SAT,1995,Role-Playing,Sega,0.0,0.0,0.11,0.0,0.11,0.11,1990s,low,0,0.0,0.0,1.0,0.0,Japan
 World Series of Poker: Tournament of Champions 2007 Edition,PSP,2006,Misc,Activision,0.1,0.0,0.0,0.01,0.11,0.11,2000s,low,0,0.9090909090909092,0.0,0.0,0.09090909090909091,North America
@@ -11345,7 +11321,6 @@ Puzzler Mind Gym 3D,3DS,2011,Puzzle,Ubisoft,0.07,0.0,0.0,0.0,0.08,0.07,2010s,low
 Lost Dimension,PS3,2014,Role-Playing,Nippon Ichi Software,0.05,0.01,0.0,0.01,0.08,0.07,2010s,low,0,0.625,0.125,0.0,0.125,North America
 Sentimental Graffiti: First Window,SAT,1997,Adventure,NEC Interchannel,0.0,0.0,0.08,0.0,0.08,0.08,1990s,low,0,0.0,0.0,1.0,0.0,Japan
 Gekijouban Madoka Magicka: The Battle Pentagram,PSV,2013,Action,Namco Bandai Games,0.0,0.0,0.08,0.0,0.08,0.08,2010s,low,0,0.0,0.0,1.0,0.0,Japan
-Cartoon Network Collection: Game Boy Advance Video Volume 2,GBA,2004,Misc,,0.06,0.02,0.0,0.0,0.08,0.08,2000s,low,0,0.75,0.25,0.0,0.0,North America
 Sherlock Holmes: Crimes & Punishments,XOne,2014,Adventure,Focus Home Interactive,0.03,0.04,0.0,0.01,0.08,0.08,2010s,low,0,0.375,0.5,0.0,0.125,Europe
 Tempest 3X,PS,1995,Shooter,Interplay,0.04,0.03,0.0,0.01,0.08,0.08,1990s,low,0,0.5,0.375,0.0,0.125,North America
 A-Train,PS,1995,Simulation,Sony Computer Entertainment,0.02,0.01,0.04,0.01,0.08,0.08,1990s,low,0,0.25,0.125,0.5,0.125,Japan
@@ -14083,7 +14058,6 @@ The Flintstones: Big Trouble in Bedrock,GBA,2001,Platform,Swing! Entertainment,0
 Hallowed Legends: Samhain,PC,2011,Adventure,Focus Home Interactive,0.0,0.02,0.0,0.01,0.03,0.03,2010s,low,0,0.0,0.6666666666666667,0.0,0.33333333333333337,Europe
 Captain Morgane and the Golden Turtle,DS,2012,Adventure,Reef Entertainment,0.0,0.03,0.0,0.0,0.03,0.03,2010s,low,0,0.0,1.0,0.0,0.0,Europe
 Sekai no Hate Made Itte Q! Chinjuu Hunter Mono no Daibouken,DS,2010,Misc,Kamui,0.0,0.0,0.03,0.0,0.03,0.03,2010s,low,0,0.0,0.0,1.0,0.0,Japan
-Silverlicious,DS,2012,Action,,0.03,0.0,0.0,0.0,0.03,0.03,2010s,low,0,1.0,0.0,0.0,0.0,North America
 Gakusen Toshi Asterisk Festa: Houka Kenran,PSV,2016,Fighting,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03,0.03,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 BeatMania IIDX 14 Gold,PS2,2008,Simulation,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03,0.03,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 PopCap Arcade Vol 2,X360,2009,Misc,PopCap Games,0.03,0.0,0.0,0.0,0.03,0.03,2000s,low,0,1.0,0.0,0.0,0.0,North America
@@ -14462,7 +14436,6 @@ Biohazard: Revival Selection,X360,2011,Action,Capcom,0.0,0.0,0.03,0.0,0.03,0.03,
 Labyrinth Cross Blood: Infinity,PSV,2013,Role-Playing,CyberFront,0.0,0.0,0.03,0.0,0.03,0.03,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Prince of Persia (2008),PC,2008,Action,Ubisoft,0.0,0.02,0.0,0.0,0.03,0.02,2000s,low,0,0.0,0.6666666666666667,0.0,0.0,Europe
 HotBrain,PSP,2007,Puzzle,Midway Games,0.02,0.0,0.0,0.0,0.03,0.02,2000s,low,0,0.6666666666666667,0.0,0.0,0.0,North America
-UK Truck Simulator,PC,2010,Simulation,,0.0,0.03,0.0,0.0,0.03,0.03,2010s,low,0,0.0,1.0,0.0,0.0,Europe
 Gudetama: Hanjuku de Tanomuwa,3DS,2015,Action,Rocket Company,0.0,0.0,0.03,0.0,0.03,0.03,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 MechAssault: Phantom War,DS,2006,Simulation,Majesco Entertainment,0.03,0.0,0.0,0.0,0.03,0.03,2000s,low,0,1.0,0.0,0.0,0.0,North America
 Magicka,PC,2011,Role-Playing,Paradox Interactive,0.0,0.02,0.0,0.01,0.03,0.03,2010s,low,0,0.0,0.6666666666666667,0.0,0.33333333333333337,Europe
@@ -14812,7 +14785,6 @@ NASCAR Heat Evolution,XOne,2016,Racing,Dusenberry Martin Racing,0.02,0.0,0.0,0.0
 Board Game: Top Shop,PS,1999,Misc,Success,0.01,0.01,0.0,0.0,0.02,0.02,1990s,low,0,0.5,0.5,0.0,0.0,North America
 NANA: Live Staff Daiboshuu! Shoshinsha Kangei,DS,2007,Action,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02,0.02,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 Castlevania: Lords of Shadow - Reverie,X360,2011,Action,Konami Digital Entertainment,0.02,0.0,0.0,0.0,0.02,0.02,2010s,low,0,1.0,0.0,0.0,0.0,North America
-Xia-Xia,DS,2012,Platform,,0.0,0.02,0.0,0.0,0.02,0.02,2010s,low,0,0.0,1.0,0.0,0.0,Europe
 Cocoto Magic Circus,Wii,2008,Shooter,Neko Entertainment,0.02,0.0,0.0,0.0,0.02,0.02,2000s,low,0,1.0,0.0,0.0,0.0,North America
 Zero no Tsukaima: Shou-akuma to Harukaze no Concerto,PS2,2007,Adventure,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02,0.02,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 Dunamis 15,PS3,2011,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,0.02,2010s,low,0,0.0,0.0,1.0,0.0,Japan
@@ -15077,7 +15049,6 @@ Kikou Heidan J-Phoenix: Cobalt Shoutaihen,PS2,2002,Action,Takara,0.0,0.0,0.02,0.
 Last Escort,PS2,2006,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02,0.02,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 Meikyuu Cross Blood: Reloaded,X360,2011,Action,Unknown,0.0,0.0,0.02,0.0,0.02,0.02,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Livly Garden,DS,2010,Simulation,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02,0.02,2010s,low,0,0.0,0.0,1.0,0.0,Japan
-Nicktoons Collection: Game Boy Advance Video Volume 3,GBA,2005,Misc,,0.01,0.01,0.0,0.0,0.02,0.02,2000s,low,0,0.5,0.5,0.0,0.0,North America
 Elminage III: Ankoku no Shito to Yaiyou no Kyuuden,PSP,2011,Role-Playing,Starfish,0.0,0.0,0.02,0.0,0.02,0.02,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Commando: Steel Disaster,DS,2008,Shooter,Lexicon Entertainment,0.02,0.0,0.0,0.0,0.02,0.02,2000s,low,0,1.0,0.0,0.0,0.0,North America
 Aria: The Natural ~Tooi Yume no Mirage~,PS2,2006,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02,0.02,2000s,low,0,0.0,0.0,1.0,0.0,Japan
@@ -15105,7 +15076,6 @@ Oil Rush,PC,2012,Strategy,Iceberg Interactive,0.0,0.02,0.0,0.0,0.02,0.02,2010s,l
 Cabela's Big Game Hunter: Pro Hunts,WiiU,2014,Shooter,Activision,0.02,0.0,0.0,0.0,0.02,0.02,2010s,low,0,1.0,0.0,0.0,0.0,North America
 Chicken Hunter,DS,2007,Shooter,Phoenix Games,0.02,0.0,0.0,0.0,0.02,0.02,2000s,low,0,1.0,0.0,0.0,0.0,North America
 Hakuoki: Shinkai - Furi no Shou,PSV,2015,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02,0.02,2010s,low,0,0.0,0.0,1.0,0.0,Japan
-Demolition Company: Gold Edition,PC,2011,Simulation,,0.0,0.02,0.0,0.0,0.02,0.02,2010s,low,0,0.0,1.0,0.0,0.0,Europe
 Headhunter: Redemption,XB,2004,Action,Sega,0.02,0.0,0.0,0.0,0.02,0.02,2000s,low,0,1.0,0.0,0.0,0.0,North America
 Onechanbara Special,PSP,2011,Action,D3Publisher,0.0,0.0,0.02,0.0,0.02,0.02,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Daikaijuu Battle: Ultra Coliseum,Wii,2008,Fighting,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,0.02,2000s,low,0,0.0,0.0,1.0,0.0,Japan
@@ -15533,7 +15503,6 @@ Gummy Bears Magical Medallion,Wii,2011,Platform,Storm City Games,0.02,0.0,0.0,0.
 Colin McRae Rally 2005,PC,2004,Racing,Codemasters,0.0,0.01,0.0,0.0,0.02,0.01,2000s,low,0,0.0,0.5,0.0,0.0,Europe
 Mana Khemia 2: Ochita Gakuen to Renkinjutsushi Tachi Portable+,PSP,2009,Role-Playing,Gust,0.0,0.0,0.02,0.0,0.02,0.02,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 LEGO Star Wars: The Video Game,PC,2005,Action,Eidos Interactive,0.0,0.01,0.0,0.0,0.02,0.01,2000s,low,0,0.0,0.5,0.0,0.0,Europe
-"Moshi, Kono Sekai ni Kami-sama ga Iru to suru Naraba.",PSV,2016,Adventure,,0.0,0.0,0.02,0.0,0.02,0.02,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Dark Void,PC,2010,Action,Capcom,0.0,0.01,0.0,0.0,0.02,0.01,2010s,low,0,0.0,0.5,0.0,0.0,Europe
 Chou!! Super Nep League DS,DS,2008,Sports,Jaleco,0.0,0.0,0.02,0.0,0.02,0.02,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 Irritating Stick,PS,1998,Action,Saurus,0.01,0.01,0.0,0.0,0.02,0.02,1990s,low,0,0.5,0.5,0.0,0.0,North America
@@ -15941,7 +15910,6 @@ Ro-Kyu-Bu! Secret Photo Op,PSV,2014,Adventure,Kadokawa Games,0.0,0.0,0.01,0.0,0.
 Caladrius,X360,2013,Shooter,Moss,0.0,0.0,0.01,0.0,0.01,0.01,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Who Wants to be a Millionaire: 2nd Edition,DS,2008,Misc,Ubisoft,0.0,0.01,0.0,0.0,0.01,0.01,2000s,low,0,0.0,1.0,0.0,0.0,Europe
 Duel Love: Koisuru Otome wa Shouri no Megami,DS,2008,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,0.01,2000s,low,0,0.0,0.0,1.0,0.0,Japan
-Super Robot Monkey Team: Game Boy Advance Video Volume 1,GBA,2005,Misc,,0.01,0.0,0.0,0.0,0.01,0.01,2000s,low,0,1.0,0.0,0.0,0.0,North America
 Freekstyle,GBA,2003,Racing,Zoo Digital Publishing,0.01,0.0,0.0,0.0,0.01,0.01,2000s,low,0,1.0,0.0,0.0,0.0,North America
 Groovin' Blocks,Wii,2009,Puzzle,Zoo Games,0.01,0.0,0.0,0.0,0.01,0.01,2000s,low,0,1.0,0.0,0.0,0.0,North America
 Tomoyo After: It's a Wonderful Life CS Edition,PS2,2007,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01,0.01,2000s,low,0,0.0,0.0,1.0,0.0,Japan
@@ -16094,7 +16062,6 @@ Powerdrome,XB,2004,Racing,Evolved Games,0.01,0.0,0.0,0.0,0.01,0.01,2000s,low,0,1
 Fallout Anthology,PC,2015,Action,Bethesda Softworks,0.0,0.01,0.0,0.0,0.01,0.01,2010s,low,0,0.0,1.0,0.0,0.0,Europe
 Tropico 3: Gold Edition,PC,2010,Strategy,Kalypso Media,0.0,0.01,0.0,0.0,0.01,0.01,2010s,low,0,0.0,1.0,0.0,0.0,Europe
 Survivor,Wii,2010,Adventure,Valcon Games,0.01,0.0,0.0,0.0,0.01,0.01,2010s,low,0,1.0,0.0,0.0,0.0,North America
-Dance with Devils,PSV,2016,Action,,0.0,0.0,0.01,0.0,0.01,0.01,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Wand of Fortune,PS2,2009,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,0.01,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 Arabians Lost: The Engagement on Desert,PSP,2012,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01,0.01,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Gobliiins 4,PC,2009,Adventure,Kalypso Media,0.0,0.01,0.0,0.0,0.01,0.01,2000s,low,0,0.0,1.0,0.0,0.0,Europe
@@ -16218,7 +16185,6 @@ Micro Machines V4,PS2,2006,Racing,Codemasters,0.01,0.0,0.0,0.0,0.01,0.01,2000s,l
 SBK Superbike World Championship,PSP,2008,Racing,Black Bean Games,0.01,0.0,0.0,0.0,0.01,0.01,2000s,low,0,1.0,0.0,0.0,0.0,North America
 Summer Athletics,PC,2008,Sports,DTP Entertainment,0.0,0.01,0.0,0.0,0.01,0.01,2000s,low,0,0.0,1.0,0.0,0.0,Europe
 Daito Giken Koushiki Pachi-Slot Simulator: 24 - Twenty-Four,PS2,2008,Misc,Paon,0.0,0.0,0.01,0.0,0.01,0.01,2000s,low,0,0.0,0.0,1.0,0.0,Japan
-Legends of Oz: Dorothy's Return,3DS,2014,Puzzle,,0.0,0.01,0.0,0.0,0.01,0.01,2010s,low,0,0.0,1.0,0.0,0.0,Europe
 Unending Bloody Call,PSP,2012,Action,Asgard,0.0,0.0,0.01,0.0,0.01,0.01,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Shutsugeki! Otometachi no Senjou 2: Ikusabana no Kizuna,PSP,2011,Strategy,System Soft,0.0,0.0,0.01,0.0,0.01,0.01,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Snood 2: On Vacation,GBA,2005,Puzzle,Zoo Digital Publishing,0.01,0.0,0.0,0.0,0.01,0.01,2000s,low,0,1.0,0.0,0.0,0.0,North America
@@ -16267,7 +16233,6 @@ Spore Galactic Adventures,PC,2009,Strategy,Electronic Arts,0.0,0.01,0.0,0.0,0.01
 15 Days,PC,2009,Adventure,DTP Entertainment,0.0,0.01,0.0,0.0,0.01,0.01,2000s,low,0,0.0,1.0,0.0,0.0,Europe
 Battle Fantasia,PS3,2008,Fighting,505 Games,0.0,0.0,0.01,0.0,0.01,0.01,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 Mario & Luigi: Paper Jam & Mario Kart 7 Double Pack,3DS,2015,Misc,Nintendo,0.0,0.0,0.01,0.0,0.01,0.01,2010s,low,0,0.0,0.0,1.0,0.0,Japan
-Driving Simulator 2011,PC,2011,Racing,,0.0,0.01,0.0,0.0,0.01,0.01,2010s,low,0,0.0,1.0,0.0,0.0,Europe
 Imagine Figure Skater (JP sales),DS,2007,Sports,Ubisoft,0.0,0.0,0.01,0.0,0.01,0.01,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 The Treasures of Mystery Island 3 Pack - Save Mystery Island!,PC,2011,Puzzle,Unknown,0.01,0.0,0.0,0.0,0.01,0.01,2010s,low,0,1.0,0.0,0.0,0.0,North America
 Hyakki Yagyou Kaidan Romance,PSP,2012,Action,Quinrose,0.0,0.0,0.01,0.0,0.01,0.01,2010s,low,0,0.0,0.0,1.0,0.0,Japan
@@ -16277,7 +16242,6 @@ E.T. The Extra-Terrestrial,GBA,2001,Action,NewKidCo,0.01,0.0,0.0,0.0,0.01,0.01,2
 God Eater Off Shot: Tachibana Sakuya-hen Twin Pack & Animation Vol.7,PS4,2016,Action,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,0.01,2010s,low,0,0.0,0.0,1.0,0.0,Japan
 Sweet Honey Coming,PS2,2009,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01,0.01,2000s,low,0,0.0,0.0,1.0,0.0,Japan
 Mahou Sensei Negima!? Neo-Pactio Fight!!,Wii,2007,Fighting,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01,0.01,2000s,low,0,0.0,0.0,1.0,0.0,Japan
-Bound By Flame,X360,2014,Role-Playing,,0.0,0.01,0.0,0.0,0.01,0.01,2010s,low,0,0.0,1.0,0.0,0.0,Europe
 Psychic Detective,PS,1995,Adventure,Electronic Arts,0.01,0.0,0.0,0.0,0.01,0.01,1990s,low,0,1.0,0.0,0.0,0.0,North America
 Codename: Panzers Complete Collection,PC,2016,Strategy,Nordic Games,0.0,0.01,0.0,0.0,0.01,0.01,2010s,low,0,0.0,1.0,0.0,0.0,Europe
 Super Robot Taisen: Original Generation,GBA,2002,Role-Playing,Banpresto,0.01,0.0,0.0,0.0,0.01,0.01,2000s,low,0,1.0,0.0,0.0,0.0,North America
